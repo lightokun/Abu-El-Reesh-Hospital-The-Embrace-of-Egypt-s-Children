@@ -61,9 +61,7 @@
     تسليم التقرير النهائي.
     المسؤولون: الزهراء، ساندي، أحمد
 
-    الدرايف 
-    https://github.com/lightokun/Abu-El-Reesh-Hospital-The-Embrace-of-Egypt-s-Children.git
-
+    
 5- التحديات المتوقعة
 
     ضيق الوقت بين مراحل التنفيذ.
